@@ -1,0 +1,6 @@
+*.VC.db
+packages/
+ChromaLightingInterrupt/obj/
+ChromaLightingInterrupt/bin/
+ChromaUI/obj/
+ChromaUI/bin/
