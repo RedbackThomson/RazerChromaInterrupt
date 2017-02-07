@@ -1,5 +1,5 @@
 # Razer Chroma Interrupt
-### Source code for [Using Razer Chroma to Access Overwatch](https://medium.com/@RedbackThomson/using-razer-chroma-to-access-overwatch-e41aab4c4404)
+### Source code for [Using Razer Chroma to Access Overwatch](https://medium.com/@RedbackThomson/chroma-overwatch-e41aab4c4404)
 
 ## Chroma Lighting Interrupt
 Exports functions which match the Razer Chroma SDK exports in order to interrupt the calls from Overwatch to the Razer Chroma client.
